@@ -1,0 +1,8 @@
+node_modules
+npm-debug.log
+
+/.envrc
+/.firebaserc
+/firebase-debug.log
+
+/public/bundle.js
