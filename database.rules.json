@@ -1,5 +1,11 @@
 {
   "rules": {
+    "tasks": {
+      ".indexOn": ["userId"]
+    },
+    "labels": {
+      ".indexOn": ["userId"]
+    },
     ".read": "auth != null",
     ".write": "auth != null"
   }
